@@ -1,7 +1,7 @@
 # Yesay, my first flask-based webpage
  
 [Yesay](http://yesay.pythonanywhere.com) is a cool name for a website. This is my first attempt at creating a web-page with flask and hosted on [pythonanywhere](https://pythonanywhere.com).
-I used a web template from "HTML5 Up" called Dimension. The description below is the README.txt of the template.
+The site is based on a web template from "HTML5 Up" called Dimension. The description below is the README.txt of the template.
  
 ---
  
