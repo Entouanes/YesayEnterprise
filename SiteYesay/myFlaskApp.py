@@ -13,5 +13,9 @@ def QuiSommesNous():
 def contact():
     return render_template('contact.html')
 
+@app.route('/lmao')
+def lmao():
+    return render_template('lmao.html')
+
 if __name__=='__main__':
-    app.run(host="0.0.0.0")
+    app.run()
